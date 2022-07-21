@@ -1,0 +1,3 @@
+## Bizio Drive Part One Page
+
+Digital AIR’s  Bizio Drive is an Enterprise resource planning (ERP) software helps companies of any size consolidate information and  streamline operations. Bizio Drive is a fully integrated ERP system aggregating all organizational data in one database hosted on a fully secure private cloud, away from the prying eyes of Big Tech and hence the desired privacy. Our intelligently designed modules allow organizations to manage and automate business processes across the firm from within a single platform.
